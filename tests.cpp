@@ -559,7 +559,7 @@ void surveyOfQuickSort1()
 	record.close();
 }
 
-/*
+
 
 void surveyOfQuickSort2()
 {
@@ -772,7 +772,6 @@ void surveyOfQuickSort3(float percent)
 
 	record.close();
 }
-*/
 
 
 /////////////////////////////////////////////// HEAPSORT ////////////////////////////////////////////////
